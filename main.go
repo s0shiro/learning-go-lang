@@ -1,6 +1,6 @@
 package main
 
-import "start/ifElse"
+import _switch "start/_switch"
 
 func main() {
 	//fmt.Println("Start of the program...")
@@ -8,5 +8,6 @@ func main() {
 	//variables.Variables()
 	//variables.Constant()
 	//forLoop.ForLoop()
-	ifElse.ConditionalStatement()
+	//ifElse.ConditionalStatement()
+	_switch.SwitchStatement()
 }
