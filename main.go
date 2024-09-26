@@ -1,6 +1,6 @@
 package main
 
-import _switch "start/_switch"
+import "start/arrays"
 
 func main() {
 	//fmt.Println("Start of the program...")
@@ -9,5 +9,6 @@ func main() {
 	//variables.Constant()
 	//forLoop.ForLoop()
 	//ifElse.ConditionalStatement()
-	_switch.SwitchStatement()
+	//_switch.SwitchStatement()
+	arrays.Arrays()
 }
